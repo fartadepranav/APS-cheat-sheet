@@ -1,3 +1,4 @@
+// include bitwise-operations.cpp file before executing this.
 #include<iostream>
 #include <vector>
 #include <math.h>
