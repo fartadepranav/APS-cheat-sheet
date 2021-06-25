@@ -2,6 +2,7 @@
 #include<iostream>
 #include <vector>
 #include <math.h>
+using namespace std;
 
 vector<int> assign(int n, int cost[][3])
 {
