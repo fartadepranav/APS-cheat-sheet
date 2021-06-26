@@ -8,7 +8,6 @@
         struct Node *next;
     }*first=NULL,*second=NULL,*third=NULL;
 
-    // Prints the Linked List
     void Display(struct Node *p)
     {
         while(p!=NULL)
